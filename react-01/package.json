@@ -1,5 +1,5 @@
 {
-  "homepage": "/frontend",
+  "homepage": "/react-01",
   "name": "react-01",
   "version": "0.1.0",
   "private": false,
@@ -38,8 +38,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
   }
 }
