@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Ward-One-Community-Site/static/css/main.93b933a1.css",
-    "main.js": "/Ward-One-Community-Site/static/js/main.a2c68701.js",
+    "main.css": "/Ward-One-Community-Site/static/css/main.b71b9e6a.css",
+    "main.js": "/Ward-One-Community-Site/static/js/main.755cfeea.js",
     "index.html": "/Ward-One-Community-Site/index.html",
-    "main.93b933a1.css.map": "/Ward-One-Community-Site/static/css/main.93b933a1.css.map",
-    "main.a2c68701.js.map": "/Ward-One-Community-Site/static/js/main.a2c68701.js.map"
+    "main.b71b9e6a.css.map": "/Ward-One-Community-Site/static/css/main.b71b9e6a.css.map",
+    "main.755cfeea.js.map": "/Ward-One-Community-Site/static/js/main.755cfeea.js.map"
   },
   "entrypoints": [
-    "static/css/main.93b933a1.css",
-    "static/js/main.a2c68701.js"
+    "static/css/main.b71b9e6a.css",
+    "static/js/main.755cfeea.js"
   ]
 }
