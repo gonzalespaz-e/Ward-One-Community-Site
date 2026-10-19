@@ -1,0 +1,20 @@
+:root {
+    --color-navy: #1B222E;
+    --color-navy-light: #35435a;
+    --color-white: white;
+    --color-off-white: #fbf9f9;
+    --color-overlay-dark: rgba(9, 9, 9, 0.654);
+    --color-purple: #29092f;
+    --color-dark-navy: #0e0e1a;
+    --color-green: #2e5339;
+    --color-yellow: #f6d381;
+    --color-near-black: #111;
+    --color-gray-light: #d9d9d9;
+    --color-gray-dark: #262626;
+    --font-display: 'Oswald', 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+    --font-body: 'Jost', 'Avenir Next', 'Segoe UI', sans-serif;
+}
+
+body {
+    margin: 0
+}
